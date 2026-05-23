@@ -1,0 +1,6 @@
+{
+  "name": "Altus Diet",
+  "description": "A minimalist weight loss companion for women, focusing on affordability, health, hydration, and clean nutrition.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
